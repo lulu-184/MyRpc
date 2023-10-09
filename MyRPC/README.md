@@ -87,18 +87,10 @@ public class RemoteInvokeTest {
 }	
 ```
 
-### 结果
-- **一万次调用结果**
-![Markdown](https://s1.ax1x.com/2018/07/06/PZMMBF.png)
-
-- **十万次调用结果**
-![Markdown](https://s1.ax1x.com/2018/07/06/PZM3N9.png)
-
-- **一百万次调用结果**
-![Markdown](https://s1.ax1x.com/2018/07/06/PZMY1x.png)
 
 
 
 # 项目架构
 
-![img](file:///C:\Users\lenovo\AppData\Local\Temp\ksohtml17496\wps1.png)
+![image](https://github.com/lulu-184/MyRpc/assets/104906471/8c0da209-b7eb-4fd7-9621-c429ec4c847e)
+
